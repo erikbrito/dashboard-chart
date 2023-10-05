@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dashboard-chart/static/css/main.0b1d632e.css",
+    "main.js": "/dashboard-chart/static/js/main.85f97b55.js",
+    "static/media/dummy.svg": "/dashboard-chart/static/media/dummy.52d023f401aa7e9ba99b69b833c45154.svg",
+    "static/media/Export.svg": "/dashboard-chart/static/media/Export.97615167290edfcae9f37ece00ec04af.svg",
+    "static/media/Notification.svg": "/dashboard-chart/static/media/Notification.a228ed9983d7cfe8df7a3ab3570bb88e.svg",
+    "index.html": "/dashboard-chart/index.html",
+    "static/media/Order.svg": "/dashboard-chart/static/media/Order.218ac8aa3fc175d50bcba8fa61b912b4.svg",
+    "static/media/Mark.svg": "/dashboard-chart/static/media/Mark.a980e652473ed0418c2f73d9d2d4d50a.svg",
+    "static/media/Graph.svg": "/dashboard-chart/static/media/Graph.a47699ccc6c7bec7f2c68e8f40a69302.svg",
+    "static/media/Sign_Out.svg": "/dashboard-chart/static/media/Sign_Out.fa4fe3caa22eae0cf4ba850f417c6c32.svg",
+    "static/media/Legend_Blue.svg": "/dashboard-chart/static/media/Legend_Blue.afed6df0f5c9db16220e81c9613e38b7.svg",
+    "static/media/Legend_Green.svg": "/dashboard-chart/static/media/Legend_Green.dcd3ef8fd736187b8d86d75ed73cfbd4.svg",
+    "static/media/Chart_Line.svg": "/dashboard-chart/static/media/Chart_Line.2a5c9d20860b76adf231b6e439534042.svg",
+    "main.0b1d632e.css.map": "/dashboard-chart/static/css/main.0b1d632e.css.map",
+    "main.85f97b55.js.map": "/dashboard-chart/static/js/main.85f97b55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b1d632e.css",
+    "static/js/main.85f97b55.js"
+  ]
+}
